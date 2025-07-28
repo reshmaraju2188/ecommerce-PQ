@@ -1,0 +1,8 @@
+azure-functions
+pyodbc
+azure-identity
+azure-keyvault-secrets
+langchain
+langchain-community
+langchain-experimental
+langchain-openai
